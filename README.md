@@ -3,9 +3,12 @@
 ## 概要
 Javaの勉強のために作成した、TODOを管理するアプリです。
 ## アプリ画面
-###　起動画面![起動画面](screenshot.png)
-###　TODO追加![TODO追加画面](screen_add.png)
-###　TODO削除![TODO削除画面](screen_delete.png)
+###　起動画面
+![起動画面](screenshot.png)
+###　TODO追加
+![TODO追加画面](screen_add.png)
+###　TODO削除
+![TODO削除画面](screen_delete.png)
 
 ## 制作目的
 ・Javaの基本的な文法に慣れるため  
